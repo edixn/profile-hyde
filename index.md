@@ -19,3 +19,4 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 <br>
 <a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
+ 
