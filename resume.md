@@ -2,52 +2,55 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+413 S. Johnson St., Iowa City, IA 52240  
+[estevan-dixon@uiowa.edu](mailto:estevan-dixon@uiowa.edu) - (563) 271 - 6830
 
 ### Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
-Brief description here.    
+#### The University of Iowa Career Leadership Academy
+##### Marketing and Recruiting Coordinator *Aug. - Present*
+As the Marketing and Recruiting Coodinator for the Career Leadership Academy I am in charge of recruiting a team of Ambassadors to assist me in marketing and promoting the CLA program    
 
-* list two or three
-* important achievements
+* Recruited a team of motivated students to assit me in helping promote the CLA program
+* Marketed the CLA program by tabeling, planning events, and talking to classes
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
-Brief description here.    
+#### OrderUp from Groupon 
+##### Marketing Representitive *March - Aug. 2016* 
 
-* list two or three
-* important achievements
-* you want to emphasize
+* Created events that helped spread the word about OrderUp to 1000's of citizens 
+* Marketed by hanging doorhangers on over 2000 doors
 
 
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
+
+#### Server at El Patron
+##### Restaurant *Jan. - May 2016*
+ 
 
 
 ### College Activities
-#### Sigma Delta Chi
-Brief explanation
+#### Students in Advertising
+Students in Advertising is a student run organization that strives to give members a chance to learn, experinece, and network in the Advertising Industry
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+* President Aug. 2016 - present
+* Vice President Sept. 2015 - May 2016
+* Member  Sept. 2014 - May 2015
 
 
-#### Iowa Raptor Project
-Something about birds.
+#### Iowa Watch Silent Auction
+
 
 ### Skills
-#### Video production
-* FinalCut X
-* Adobe Premiere
-* Experience with SLR and DVCAM shooting
+* Microsoft Word
+* Microsoft Excel
+* Microsoft Powerpoint
 
 #### Another skill
-* subskills/software
+* Photoshop
 
 ### Education
 #### University of Iowa
 Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+
+* Certificate in Leadership Studies; GPA 3.05
+
+* Career Leadership Academy Part 1 and 2 *January 2016 - Present*
