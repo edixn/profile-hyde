@@ -64,5 +64,4 @@ Students in Advertising is a student run organization that strives to give membe
 Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
 
 * Certificate in Leadership Studies; GPA 3.05
-
 * Career Leadership Academy Part 1 and 2 *January 2016 - Present*
