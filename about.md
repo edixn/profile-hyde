@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
+
   According to the Gallup StrengthsFinder 2.0 Assessment my top 5 strengths include: 
   
 1.) Communication
