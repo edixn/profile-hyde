@@ -7,7 +7,7 @@ title: Home
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](https://clas.uiowa.edu/sjmc/profiles/estevan-dixon) Class of 2017.
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently the sergeant-at-arms of the University of Iowa [Society for the Promotion of Associations](/#), and I really like green eggs and ham.
+During my time at the University of Iowa I have held positions as both the Presdient and Vice-President of the University of Iowa Chapter of the American Advertising Federation, the Marketing and Recruiting Coordinator for the Career Leadership Academy, and a Marketing Representitive for OrderUp by Groupon. 
 
 ### Social media
 
