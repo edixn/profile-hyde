@@ -21,7 +21,7 @@ As the Marketing and Recruiting Coodinator for the Career Leadership Academy I a
 ##### Marketing Representitive *March - Aug. 2016* 
 
 * Created events that helped spread awareness about OrderUp to 1000's of Iowa City citizens 
-* Used Guerrilla by hanging doorhangers on over 2000 doors
+* Used Guerrilla Marketing tactics to promote OrderUp
 
 
 
