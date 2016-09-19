@@ -23,7 +23,7 @@ As the Marketing and Recruiting Coodinator for the Career Leadership Academy I a
 
 ##### Marketing Representitive *March - Aug. 2016* 
 
-* Planed and executed marketing campaigns  
+* Planned and executed marketing campaigns  
 * Reached 1000's of Iowa CIty citizens by using Guerrilla Marketing tactics to promote OrderUp
 * Helped local restaurants generate sales through constant marketing and busniess outreach activities
 * Interacted with restaurant owners and managent teams
