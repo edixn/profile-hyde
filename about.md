@@ -5,10 +5,15 @@ title: About
 
 <p class="message">
   According to the Gallup StrengthsFinder 2.0 Assessment my top 5 strengths include: 
+  
 1.) Communication
+
 2.) Strategic
+
 3.) Woo
+
 4.) Significance
+
 5.) Includer 
 
 My name is Estevan Dixon, and I am a senior Journalism and Mass Communications major with a concentration in Leadership Studies. Before we get too far, yes that did say Leadership Studies. You may ask yourself how does one "study leadership", or how does one learn how to become a leader. I believe leadership is not just a unique trait that some have and others don't, but a quality that everyone has the potential of unlocking. To me, it takes one person to stand up and empower others to want to better themselves, and that is what I will bring to any organization that hires me.  
@@ -18,9 +23,7 @@ Whether it's marketing, advertising, recruiting, or sales, I have a burning pass
 When I graduate in May of 2017, I wish to be selected not based off of the various positions that I have held, but rather my abilities to lead, create, communicate, problem solve, and build relationships. 
 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
