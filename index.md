@@ -5,9 +5,18 @@ title: Home
 
 ![logo](public/ProPicture.jpg)
 
-I'm a member of the University of Iowa [School of Journalism and Mass Communication](https://clas.uiowa.edu/sjmc/profiles/estevan-dixon) Class of 2017.
+I'm currently a senior at the University of Iowa [School of Journalism and Mass Communication](https://clas.uiowa.edu/sjmc/profiles/estevan-dixon) Class of 2017.
 
-During my time at the University of Iowa I have held positions as both the Presdient and Vice-President of the University of Iowa Chapter of the American Advertising Federation, the Marketing and Recruiting Coordinator for the Career Leadership Academy, and a Marketing Representitive for OrderUp by Groupon. 
+During my time at the University of Iowa I have held positions as: 
+Presdient of the University of Iowa Chapter of the American Advertising Federation 
+
+Vice-President of the Students in Advertising Organization
+
+Marketing and Recruiting Coordinator for the Career Leadership Academy
+
+Marketing Representitive for OrderUp by Groupon
+
+Marketing/Sales Intern for College Pro 
 
 ### Social media
 
