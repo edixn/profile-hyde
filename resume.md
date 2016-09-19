@@ -13,8 +13,8 @@ title: Resume
 
 As the Marketing and Recruiting Coodinator for the Career Leadership Academy I am in charge of recruiting a team of Ambassadors to assist me in marketing and promoting the CLA program    
 
-* Recruited a team of motivated students to assit me in helping promote the CLA program
-* Marketed the CLA program by tabeling, planning events, and talking to classes
+* Recruited a team of motivated students to assit in promoting the CLA program
+* Marketed the CLA program by tabeling, planning events, and talking to various organizations
 
 #### OrderUp from Groupon 
 
