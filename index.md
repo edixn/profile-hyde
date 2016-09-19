@@ -9,15 +9,15 @@ I'm currently a senior at the University of Iowa in the [School of Journalism an
 
 During my time at the University of Iowa I have held positions as the: 
 
-*Presdient of the University of Iowa Chapter of the American Advertising Federation 
+* Presdient of the University of Iowa Chapter of the American Advertising Federation 
 
-*Vice-President of the Students in Advertising Organization
+* Vice-President of the Students in Advertising Organization
 
-*Marketing and Recruiting Coordinator for the Career Leadership Academy
+* Marketing and Recruiting Coordinator for the Career Leadership Academy
 
-*Marketing Representitive for OrderUp by Groupon
+* Marketing Representitive for OrderUp by Groupon
 
-*Marketing/Sales Intern for College Pro 
+* Marketing/Sales Intern for College Pro 
 
 ### Social media
 
