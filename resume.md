@@ -8,13 +8,16 @@ title: Resume
 ### Experience
 
 #### The University of Iowa Career Leadership Academy
+
 ##### Marketing and Recruiting Coordinator *Aug. - Present*
+
 As the Marketing and Recruiting Coodinator for the Career Leadership Academy I am in charge of recruiting a team of Ambassadors to assist me in marketing and promoting the CLA program    
 
 * Recruited a team of motivated students to assit me in helping promote the CLA program
 * Marketed the CLA program by tabeling, planning events, and talking to classes
 
 #### OrderUp from Groupon 
+
 ##### Marketing Representitive *March - Aug. 2016* 
 
 * Created events that helped spread the word about OrderUp to 1000's of citizens 
@@ -23,11 +26,13 @@ As the Marketing and Recruiting Coodinator for the Career Leadership Academy I a
 
 
 #### Server at El Patron
+
 ##### Restaurant *Jan. - May 2016*
  
 
 
 ### College Activities
+
 #### Students in Advertising
 Students in Advertising is a student run organization that strives to give members a chance to learn, experinece, and network in the Advertising Industry
 
@@ -48,6 +53,7 @@ Students in Advertising is a student run organization that strives to give membe
 * Photoshop
 
 ### Education
+
 #### University of Iowa
 Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
 
