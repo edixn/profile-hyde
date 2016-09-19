@@ -13,15 +13,21 @@ title: Resume
 
 As the Marketing and Recruiting Coodinator for the Career Leadership Academy I am in charge of recruiting a team of Ambassadors to assist me in marketing and promoting the CLA program    
 
-* Recruited a team of motivated students to assit in promoting the CLA program
-* Marketed the CLA program by tabeling, planning events, and talking to various organizations
+* Lead a team of CLA Ambassadors who volunteer to market and recruit for the CLA program
+* Partnered with the CLA Director to identify campus organizations and recruiting efforts to ensure the program has a strong and effective presence on campus
+* Promoted CLA on campus by conducting presentations across campus to various organizations and classes
+* Assigned different marketing tasks and events to CLA Ambassadors 
+* Understand semester goals and action plans to achieve these goals
 
 #### OrderUp from Groupon 
 
 ##### Marketing Representitive *March - Aug. 2016* 
 
-* Created events that helped spread awareness about OrderUp to 1000's of Iowa City citizens 
-* Used Guerrilla Marketing tactics to promote OrderUp
+* Planed and executed marketing campaigns  
+* Reached 1000's of Iowa CIty citizens by using Guerrilla Marketing tactics to promote OrderUp
+* Helped local restaurants generate sales through constant marketing and busniess outreach activities
+* Interacted with restaurant owners and managent teams
+* Worked closely with student organizations to plan promotional events 
 
 
 
