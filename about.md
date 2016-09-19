@@ -6,15 +6,15 @@ title: About
 
   According to the Gallup StrengthsFinder 2.0 Assessment my top 5 strengths include: 
   
-1.) Communication
+1) Communication
 
-2.) Strategic
+2) Strategic
 
-3.) Woo
+3) Woo
 
-4.) Significance
+4) Significance
 
-5.) Includer 
+5) Includer 
 
 My name is Estevan Dixon, and I am a senior Journalism and Mass Communications major with a concentration in Leadership Studies. Before we get too far, yes that did say Leadership Studies. You may ask yourself how does one "study leadership", or how does one learn how to become a leader. I believe leadership is not just a unique trait that some have and others don't, but a quality that everyone has the potential of unlocking. To me, it takes one person to stand up and empower others to want to better themselves, and that is what I will bring to any organization that hires me.  
 
