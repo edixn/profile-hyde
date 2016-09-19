@@ -5,7 +5,7 @@ title: Home
 
 ![logo](public/ProPicture.jpg)
 
-I'm currently a senior at the University of Iowa in the [School of Journalism and Mass Communication](https://clas.uiowa.edu/sjmc/profiles/estevan-dixon) Class of 2017.
+I'm currently a senior at the University of Iowa in the [School of Journalism and Mass Communication](https://clas.uiowa.edu/sjmc/profiles/estevan-dixon).
 
 During my time at the University of Iowa I have held positions as the: 
 
